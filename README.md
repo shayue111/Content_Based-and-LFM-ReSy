@@ -6,3 +6,4 @@
     ![sample](https://github.com/shayue111/Content_Based-and-LFM-ReSy/blob/master/Content_Based/sample.png)
     - 运行description_based
     - 运行metadata_based
+- LFM模型
